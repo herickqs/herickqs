@@ -7,7 +7,7 @@ In the moment studying Python, Javascript and some C#
 I also use Figma, and Apple notes to sketch some ideas
 
 ### Tools & Tech:
-- **Python, C#**
+- **Python, C#, Javascript**
 - **Figma, Apple notes**
 
 
