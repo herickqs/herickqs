@@ -1,16 +1,18 @@
-## Hi there 👋
+## capitalism will take our soul
 
-<!--
-**herickqs/herickqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Herickqs, a back-end student based in Brazil.
 
-Here are some ideas to get you started:
+In the moment studying Python, Javascript and some C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use Figma, and Apple notes to sketch some ideas
+
+### Tools & Tech:
+- **Python, C#**
+- **Figma, Apple notes**
+
+
+
+### Fun Facts:
+- I have a bunny
+- I love competitive games
+- **Hobbies:** gym, games, manga
